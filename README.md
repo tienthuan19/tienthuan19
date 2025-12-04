@@ -4,7 +4,6 @@
 I am on a journey to become a **Backend Developer** and **Cybersecurity Specialist**.
 
 # 🛠️ Tech
-**Languages & Frameworks**
 * **Java** 
 * **Javascript**
 * **Python**

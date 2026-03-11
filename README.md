@@ -1,9 +1,9 @@
-# 💫 About Me:
-👋 Hi, I'm a Computer Science student at the University of Information Technology (UIT), currently enrolled in the joint program with Birmingham City University (BCU).
+# About Me:
+Hi, I'm a Computer Science student at the University of Information Technology (UIT), currently enrolled in the joint program with Birmingham City University (BCU).
 
 I am on a journey to become a **Backend Developer** and **Cybersecurity Specialist**.
 
-# 🛠️ Tech
+# Tech
 * **Java** 
 * **Javascript**
 * **Python**
